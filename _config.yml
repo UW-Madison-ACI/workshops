@@ -14,7 +14,7 @@ baseurl: "/workshops"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Software and Data Carpentry at UW Madison
+title: The Carpentries at UW Madison
 
 # Short description of your site
 description: Central workshop website
@@ -23,12 +23,11 @@ description: Central workshop website
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
   Past Workshops: "page2"
   Resources:
     - Stay in Touch: "contact-us"
     - Links and Tutorials: "independent-learning"
-    - Software and Data Carpentry: "carpentries"
+    - The Carpentries: "carpentries"
     - Funny Things: "humor"
   Get Involved: "get-involved"
 
