@@ -23,7 +23,7 @@ description: Central workshop website
 
 # List of links in the navigation bar
 navbar-links:
-  Past Workshops: "page2"
+  Past Workshops: "past-workshops"
   Resources:
     - Stay in Touch: "contact-us"
     - Links and Tutorials: "independent-learning"
