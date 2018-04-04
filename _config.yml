@@ -27,7 +27,7 @@ navbar-links:
   Resources:
     - Stay in Touch: "contact-us"
     - Links and Tutorials: "independent-learning"
-    - The Carpentries: "carpentries"
+    - The Carpentries: "http://carpentries.org"
     - Funny Things: "humor"
   Get Involved: "get-involved"
 

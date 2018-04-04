@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Software and Data Carpentry
-subtitle: More information on the international organizations, Software and Data Carpentry
+title: The Carpentries
+subtitle: More information on the international organization, The Carpentries
 ---
 
-To learn more about Software and Data Carpentry, see each organization's website: 
 
 * [Data Carpentry](http://www.datacarpentry.org/)
 * [Software Carpentry](https://software-carpentry.org/)
