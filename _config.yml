@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://uw-madison-aci.github.io"
+url: "http://uw-madison-aci.github.io/workshops"
 baseurl: "/workshops"
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: "/workshops"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Software and Data Carpentry at UW Madison
+title: The Carpentries at UW Madison
 
 # Short description of your site
 description: Central workshop website
@@ -23,12 +23,11 @@ description: Central workshop website
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
-  Past Workshops: "page2"
+  Past Workshops: "past-workshops"
   Resources:
     - Stay in Touch: "contact-us"
     - Links and Tutorials: "independent-learning"
-    - Software and Data Carpentry: "carpentries"
+    - The Carpentries: "http://carpentries.org"
     - Funny Things: "humor"
   Get Involved: "get-involved"
 
